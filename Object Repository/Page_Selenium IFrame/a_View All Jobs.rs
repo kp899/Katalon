@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_View All Jobs</name>
+   <tag></tag>
+   <elementGuidId>40b771aa-83fb-48bd-bc02-1148d0baf82f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='td-outer-wrap']/div[3]/div/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.catcallout</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ff094fd3-b870-4703-bc92-9b23bd456d58</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.freshersnow.com/india-jobs/</value>
+      <webElementGuid>492c285d-06f2-4906-90ac-720e258d7e6f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>catcallout</value>
+      <webElementGuid>19145108-3727-422a-87d3-cbf7226084cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>View All Jobs</value>
+      <webElementGuid>c75482f5-82ab-440c-8731-708c6690f444</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;td-outer-wrap&quot;)/div[@class=&quot;homelists&quot;]/div[@class=&quot;td-container&quot;]/div[@class=&quot;td-pb-row popular-categories&quot;]/a[@class=&quot;catcallout&quot;]</value>
+      <webElementGuid>48f7e18d-ea3b-432d-804c-f31a05fe8333</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Selenium IFrame/iframe_November 21, 2019_iframe_a</value>
+      <webElementGuid>cd457ed7-f255-42d2-8535-bcb6e8613e92</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='td-outer-wrap']/div[3]/div/div/a</value>
+      <webElementGuid>a2c2c22d-705d-491d-be3f-5504dd8af8f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'View All Jobs')]</value>
+      <webElementGuid>a5680f3b-fbae-4e31-b679-812dc2ad0161</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jobs by Qualification'])[1]/preceding::a[1]</value>
+      <webElementGuid>e8f11d74-845b-45c1-a161-ef655a67fbc8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IT Jobs by Qualification'])[1]/preceding::a[1]</value>
+      <webElementGuid>13ac1616-405e-413d-912d-aba63409969e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='View All Jobs']/parent::*</value>
+      <webElementGuid>791b7516-fabc-446b-9b8f-193672cd1149</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.freshersnow.com/india-jobs/')]</value>
+      <webElementGuid>08d706a2-95b4-49e8-9486-86c90bf5cf9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/a</value>
+      <webElementGuid>8a106074-3f90-4adb-a2f3-b0ea84e6877a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.freshersnow.com/india-jobs/' and (text() = 'View All Jobs' or . = 'View All Jobs')]</value>
+      <webElementGuid>326d8165-4890-4434-82e3-18d2e738a366</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
