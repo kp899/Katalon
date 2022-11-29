@@ -1,16 +1,18 @@
 {
-  "keywordFileContentHash": "7E8AAC1C768B2EC331F122291E7C0F8D",
+  "keywordFileContentHash": "3F20EB44F95C13F059BFF3F5044CCB57",
   "keywordClasses": [
     {
       "name": "MyKeywords",
       "keywordMethods": [
         {
           "name": "hello",
-          "parameters": []
+          "parameters": [],
+          "javadoc": ""
         },
         {
           "name": "login",
-          "parameters": []
+          "parameters": [],
+          "javadoc": ""
         },
         {
           "name": "helloUser",
@@ -28,10 +30,11 @@
                 "errorOnParsing": false
               }
             }
-          ]
+          ],
+          "javadoc": ""
         }
       ]
     }
   ],
-  "javadocParsed": false
+  "javadocParsed": true
 }
