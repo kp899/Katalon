@@ -17,22 +17,21 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
+Windows.startApplicationWithTitle('C:\\Windows\\notepad.exe', 'TestOne')
 
-WebUI.navigateToUrl('https://katalon-demo-cura.herokuapp.com/')
+Windows.click(findWindowsObject('Object Repository/MenuItem'))
 
-WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/a_Make Appointment'))
+Windows.click(findWindowsObject('Object Repository/MenuItem(1)'))
 
-WebUI.setText(findTestObject('Object Repository/Page_CURA Healthcare Service/input_Username_username'), 'John Doe')
+Windows.click(findWindowsObject('Object Repository/MenuItem(2)'))
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_CURA Healthcare Service/input_Password_password'), 'g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM')
+Windows.click(findWindowsObject('Object Repository/Document'))
 
-WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/button_Login'))
+Windows.setText(findWindowsObject('Object Repository/Document'), 'This is my forst automation script')
 
-WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/i_CURA Healthcare_fa fa-bars'))
+Windows.click(findWindowsObject('Object Repository/MenuItem'))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_CURA Healthcare Service/button_Book Appointment'), 0)
+Windows.click(findWindowsObject('Object Repository/Pane'))
 
-WebUI.closeBrowser()
-
+Windows.closeApplication()
 
